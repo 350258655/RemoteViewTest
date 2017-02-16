@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteViewTest</string>
+    <string name="title_activity_open">OpenActivity</string>
+</resources>
