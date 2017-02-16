@@ -58,7 +58,7 @@ public class NotificationUtils {
         mBuilder.setContentTitle(title);
         //通知栏内容
         mBuilder.setContentText(content);
-        //TODO 触发的intent
+        //触发的intent
         mBuilder.setContentIntent(pendingIntent);
         //设置颜色，可以给5.0以上版本设置背景色
         mBuilder.setColor(Color.RED);
